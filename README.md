@@ -1,8 +1,6 @@
 # COVID-19-Detection
 
+This Project should work with 'VGG16' model \
+So do not forget to install it < 3 
 
-I have take the best presentation for this mini project  .
-
-I was working with Dr.Khaja for this mini project in artificial neural network course .
-
-the dataset was taken from kaggle website .
+wish you all the best 
