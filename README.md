@@ -65,10 +65,8 @@ We achieved the classification accuracy as approximately 98%. This experiment ha
 - Dansana, Debabrata, Raghvendra Kumar, Aishik Bhattacharjee, D. Jude Hemanth, Deepak Gupta, Ashish Khanna, and Oscar Castillo. "Early diagnosis of COVID-19-affected patients based on X-ray and computed tomography images using deep learning algorithm." Soft Computing (2020): 1-9.
 
 ##      Colabrative
- 
-![https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/khaja-raoufuddin-ahmed-10110b63/)
 
-
+![https://www.linkedin.com/in/khaja-raoufuddin-ahmed-10110b63/]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white})
 
 
 
