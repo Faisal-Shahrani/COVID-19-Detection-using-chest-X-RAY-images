@@ -52,17 +52,6 @@ We achieved the classification accuracy as approximately 98%. This experiment ha
 
 
 
-###         7. References
-
-- Simonyan, Karen, and Andrew Zisserman. "Very deep convolutional networks for large-scale image recognition." arXiv preprint arXiv:1409.1556 (2014).
-
-- Sitaula, Chiranjibi, and Mohammad Belayet Hossain. "Attention-based VGG-16 model for COVID-19 chest X-ray image classification." Applied Intelligence 51, no. 5 (2021): 2850-2863.
-
-- Jiang, Zhi-Peng, Yi-Yang Liu, Zhen-En Shao, and Ko-Wei Huang. "An Improved VGG16 Model for Pneumonia Image Classification." Applied Sciences 11, no. 23 (2021): 11185.
-
-- Dansana, Debabrata, Raghvendra Kumar, Aishik Bhattacharjee, D. Jude Hemanth, Deepak Gupta, Ashish Khanna, and Oscar Castillo. "Early diagnosis of COVID-19-affected patients based on X-ray and computed tomography images using deep learning algorithm." Soft Computing (2020): 1-9.
-
-- Dansana, Debabrata, Raghvendra Kumar, Aishik Bhattacharjee, D. Jude Hemanth, Deepak Gupta, Ashish Khanna, and Oscar Castillo. "Early diagnosis of COVID-19-affected patients based on X-ray and computed tomography images using deep learning algorithm." Soft Computing (2020): 1-9.
 
 
 #          <h3 align="center">Instructor</h3>
