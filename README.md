@@ -1,9 +1,4 @@
-         <h3 
-         align="center">COVID-19-Detection using chest X-RAY images
-         
-         </h3>
-
-
+#          <h3 align="center">COVID-19-Detection using chest X-RAY images</h3>
 ##         1.Introduction and Abstract
 
 In this [project](Covid_19.ipynb), we performed the binary classification of chest x-ray images using Neural Network Model to find the patient is covid-19 positive or normal. Most of the Computer Vision tasks are surrounded around CNN architectures, as the basis of most of the problems is to classify an image into known labels. Artificial neural networks were great for the task which wasn’t possible for Conventional Machine learning algorithms, but in case of processing images with fully connected hidden layers, ANN takes a very long time to be trained. Due to this, CNN was used to first reduces the size of images using convolutional layers and pooling layers and then feed the reduced data to fully connected layers. A CNN based [VGG16](covid19-vgg16.h5) model is used here for classification.
