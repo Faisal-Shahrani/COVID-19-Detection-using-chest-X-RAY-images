@@ -66,8 +66,9 @@ We achieved the classification accuracy as approximately 98%. This experiment ha
 
 ##      Colabrative
 
-![https://www.linkedin.com/in/khaja-raoufuddin-ahmed-10110b63/]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white})
+ - Phd. Khaja Raoufuddin Ahmed
 
+    - ![Linkedin]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white})(https://www.linkedin.com/in/khaja-raoufuddin-ahmed-10110b63/)
 
 
 
