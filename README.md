@@ -41,7 +41,7 @@ The [dataset](DATASET) on which the project is implemented is fetched from [Kagg
 
 -    The results based on our experiment:   
     
-    - loss and accuracy 
+         loss and accuracy 
 
 ![Alt text](Image/result_plot.jpg)
 
@@ -73,3 +73,6 @@ We achieved the classification accuracy as approximately 98%. This experiment ha
   &emsp;
    <a target="_blank" href="https://www.linkedin.com/in/khaja-raoufuddin-ahmed-10110b63/" ><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
  </p>
+
+
+ 
