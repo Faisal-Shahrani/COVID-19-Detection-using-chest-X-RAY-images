@@ -17,10 +17,9 @@ The [dataset](DATASET) on which the project is implemented is fetched from [Kagg
 
 [VGG16](https://www.mathworks.com/help/deeplearning/ref/vgg16.html) is a simple and widely used Convolutional Neural Network (CNN) Architecture used for ImageNet, a large visual database project used in visual object recognition software research. The VGG16 Architecture was developed and introduced by Karen Simonyan and Andrew Zisserman from the University of Oxford, in the year 2014, through their article “Very Deep Convolutional Networks for Large-Scale Image Recognition.” ‘VGG’ is the abbreviation for Visual Geometry Group, which is a group of researchers at the University of Oxford who developed this architecture, and ‘16’ implies that this architecture 
 
-![Alt text](Image/VGG16.png)
+![Alt text](Image/500760_1_En_7_Fig1_HTML.png)
 
-
-###         4.Method
+##         4.Method
 
 - Method and Parameters used in this project: 
 
@@ -57,8 +56,11 @@ We achieved the classification accuracy as approximately 98%. This experiment ha
 - Simonyan, Karen, and Andrew Zisserman. "Very deep convolutional networks for large-scale image recognition." arXiv preprint arXiv:1409.1556 (2014).
 
 - Sitaula, Chiranjibi, and Mohammad Belayet Hossain. "Attention-based VGG-16 model for COVID-19 chest X-ray image classification." Applied Intelligence 51, no. 5 (2021): 2850-2863.
+
 - Jiang, Zhi-Peng, Yi-Yang Liu, Zhen-En Shao, and Ko-Wei Huang. "An Improved VGG16 Model for Pneumonia Image Classification." Applied Sciences 11, no. 23 (2021): 11185.
+
 - Dansana, Debabrata, Raghvendra Kumar, Aishik Bhattacharjee, D. Jude Hemanth, Deepak Gupta, Ashish Khanna, and Oscar Castillo. "Early diagnosis of COVID-19-affected patients based on X-ray and computed tomography images using deep learning algorithm." Soft Computing (2020): 1-9.
+
 - Dansana, Debabrata, Raghvendra Kumar, Aishik Bhattacharjee, D. Jude Hemanth, Deepak Gupta, Ashish Khanna, and Oscar Castillo. "Early diagnosis of COVID-19-affected patients based on X-ray and computed tomography images using deep learning algorithm." Soft Computing (2020): 1-9.
 
 
