@@ -3,12 +3,12 @@
 
 ###        <h3 align="center">1.Introduction and Abstract</h3>
 
-In this [project](Covid_19.ipynb), we performed the binary classification of chest x-ray images using Neural Network Model to find the patient is covid-19 positive or normal. Most of the Computer Vision tasks are surrounded around CNN architectures, as the basis of most of the problems is to classify an image into known labels. Artificial neural networks were great for the task which wasn’t possible for Conventional Machine learning algorithms, but in case of processing images with fully connected hidden layers, ANN takes a very long time to be trained. Due to this, CNN was used to first reduces the size of images using convolutional layers and pooling layers and then feed the reduced data to fully connected layers. A CNN based [VGG16](covid19-vgg16.h5) model is used here for classification.
+In this [project](Covid_19.ipynb), we performed the binary classification of chest x-ray images using the Neural Network Model to find whether the patient is COVID-19 positive or normal. Most of the Computer Vision tasks are surrounded around CNN architectures, as the basis of most of the problems is to classify an image into known labels. Artificial neural networks were great for the task which wasn’t possible for Conventional Machine learning algorithms, but in the case of processing images with fully connected hidden layers, ANN takes a very long time to be trained. Due to this, CNN was used to first reduce the size of images using convolutional layers and pooling layers and then feed the reduced data to fully connected layers. A CNN-based [VGG16](covid19-vgg16.h5) model is used here for classification.
 
 
 ###         <h3 align="center">2.Dataset</h3>
 
-The [dataset](DATASET) on which the project is implemented is fetched from [Kaggle](https://www.kaggle.com/) to conduct the experiment on it. Dataset contains images of [covid](DATASET/COVID) and [normal](DATASET/NORMAL) x-rays. We divided it into two halves training and testing. 80% of data is used for training and 20% is used for testing.
+The [dataset](DATASET) on which the project is implemented is fetched from [Kaggle](https://www.kaggle.com/) to conduct the experiment on it. The dataset contains images of [covid](DATASET/COVID) and [normal](DATASET/NORMAL) x-rays. We divided it into two halves training and testing. 80% of the data is used for training and 20% is used for testing.
 
 ![Alt text](Image/image.png)
 
@@ -48,7 +48,7 @@ The [dataset](DATASET) on which the project is implemented is fetched from [Kagg
 
 ###          <h3 align="center">6.Conclusion and Future Direction</h3>
 
-We achieved the classification accuracy as approximately 98%. This experiment has been performed on small dataset. However, larger dataset is required to train the network more efficiently. We recommend to introduce more image classes related to x-ray images. Further work can be done by training the network with variants of COVID-19 virus.  
+We achieved the classification accuracy of approximately 98%. This experiment has been performed on a small dataset. However, a larger dataset is required to train the network more efficiently. We recommend introducing more image classes related to X-ray images. Further work can be done by training the network with variants of the COVID-19 virus.  
 
 
 
