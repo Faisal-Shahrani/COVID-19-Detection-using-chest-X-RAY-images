@@ -50,7 +50,7 @@ The [dataset](DATASET) on which the project is implemented is fetched from [Kagg
 
 
 <p align="center">
-  <img src="Image/result_plot.jpg" alt="Image" width="200"/>
+  <img src="Image/result_plot.jpg" alt="Image" width="200" style="display:block; margin:0 auto;"/>
 </p>
 
 
