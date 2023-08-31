@@ -22,7 +22,7 @@ The [dataset](DATASET) on which the project is implemented is fetched from [Kagg
 
 [VGG16](https://www.mathworks.com/help/deeplearning/ref/vgg16.html) is a simple and widely used Convolutional Neural Network (CNN) Architecture used for ImageNet, a large visual database project used in visual object recognition software research. The VGG16 Architecture was developed and introduced by Karen Simonyan and Andrew Zisserman from the University of Oxford, in the year 2014, through their article “Very Deep Convolutional Networks for Large-Scale Image Recognition.” ‘VGG’ is the abbreviation for [Visual Geometry Group](https://www.robots.ox.ac.uk/~vgg/), which is a group of researchers at the University of Oxford who developed this architecture, and ‘16’ implies that this architecture 
 
-![Alt text](Image/500760_1_En_7_Fig1_HTML.png)
+![Alt text](<Image/VGG16 arch..png>)
 
 ###          <h2 align="center">4.Method ✍️</h2>
 
