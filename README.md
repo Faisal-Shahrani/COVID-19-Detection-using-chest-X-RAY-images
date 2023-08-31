@@ -47,7 +47,7 @@ The [dataset](DATASET) on which the project is implemented is fetched from [Kagg
     
          loss and accuracy 
 
- <p3align= "center" > ![Alt text](Image/result_plot.jpg) </p3>
+ <p3 align="center"> ![Alt text](Image/result_plot.jpg)</p3>
 
 
 ###          <h3 align="center">6.Conclusion and Future Direction</h3>
